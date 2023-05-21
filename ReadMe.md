@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Sou estudante de Análise e Desenvolvimento de Sistemas<br>👯 Estou a procura de emprego<br>🌱 Atualmente estou aprendendo Java e MySQL
+🔭 Cursando Análise e Desenvolvimento de Sistemas<br>📚 Formado em técnico para a internet<br>👯 Estou a procura de emprego<br>🌱 Atualmente estou aprendendo Java e MySQL
 
 
 ## 🌐 Socials:
