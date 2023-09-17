@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Cursando Análise e Desenvolvimento de Sistemas<br>📚 Formado em técnico de informática para a internet<br>👯 Estou a procura de emprego<br>🌱 Atualmente estou aprendendo Python e MySQL
+🔭 Cursando Análise e Desenvolvimento de Sistemas<br>📚 Formado em Técnico de Informática para a Internet<br>🌱 Atualmente estou aprendendo Python e MySQL
 
 
 ## 🌐 Socials:
