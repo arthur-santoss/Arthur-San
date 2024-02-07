@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Cursando Análise e Desenvolvimento de Sistemas<br>📚 Formado em Técnico de Informática para a Internet<br>🌱 Atualmente estou aprendendo Python e PostgreSQL
+🔭 Cursando Ciência de dados<br>📚 Formado em Técnico de Informática para a Internet<br>🌱 Python, MongoDB, Selenium e Pandas
 
 
 ## 🌐 Socials:
