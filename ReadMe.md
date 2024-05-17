@@ -1,5 +1,7 @@
 # 💫 Sobre mim:
-🔭 Cursando Ciência de dados<br>📚 Formado em Técnico de Informática para a Internet<br>🌱 Python, MongoDB, Selenium e Pandas
+🔭 Cursando Ciência de dados<br>
+📚 Formado em Técnico de Informática para a Internet<br>
+🌱 FullStack -> JavaScript, React, Python, MongoDB, Selenium e Pandas
 
 
 ## 🌐 Socials:
