@@ -19,5 +19,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arthur-San&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
